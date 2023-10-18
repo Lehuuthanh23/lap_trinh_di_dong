@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="560ac016-f0c9-4d75-a904-1a353b388972" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../0306211292_Lê Hữu Thành_Bai4.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/app/src/main/java/com/example/demoxulisukien/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MayTinh/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MayTinh/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MayTinh/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MayTinh/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MayTinh/app/src/androidTest/java/com/example/maytinh/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MayTinh/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MayTinh/app/src/main/java/com/example/maytinh/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MayTinh/app/src/main/java/com/example/maytinh/ui/theme/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MayTinh/app/src/main/java/com/example/maytinh/ui/theme/Theme.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MayTinh/app/src/main/java/com/example/maytinh/ui/theme/Type.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MayTinh/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MayTinh/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MayTinh/app/src/test/java/com/example/maytinh/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MayTinh/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MayTinh/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Navigation - Copy/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Navigation - Copy/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Navigation - Copy/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Navigation - Copy/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Navigation - Copy/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Navigation - Copy/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Navigation - Copy/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Navigation - Copy/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Navigation - Copy/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Navigation - Copy/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Navigation - Copy/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Navigation - Copy/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Navigation - Copy/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Navigation - Copy/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Navigation - Copy/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Navigation - Copy/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Navigation - Copy/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Navigation - Copy/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Navigation - Copy/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Navigation - Copy/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Navigation - Copy/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Navigation - Copy/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Navigation - Copy/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Navigation - Copy/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Navigation - Copy/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Navigation - Copy/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Navigation - Copy/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Navigation - Copy/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/app/src/androidTest/java/com/example/tinhbmi/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/app/src/main/java/com/example/tinhbmi/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/app/src/main/java/com/example/tinhbmi/ui/theme/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/app/src/main/java/com/example/tinhbmi/ui/theme/Theme.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/app/src/main/java/com/example/tinhbmi/ui/theme/Type.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/app/src/test/java/com/example/tinhbmi/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI - Copy/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/app/src/androidTest/java/com/example/tinhbmi/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/app/src/main/java/com/example/tinhbmi/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/app/src/main/java/com/example/tinhbmi/ui/theme/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/app/src/main/java/com/example/tinhbmi/ui/theme/Theme.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/app/src/main/java/com/example/tinhbmi/ui/theme/Type.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/app/src/test/java/com/example/tinhbmi/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TinhBMI/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Navigation - Copy/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/.idea/kotlinc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Navigation - Copy/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/app/src/androidTest/java/com/example/listvagridlayout/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/app/src/androidTest/java/com/example/demoxulisukien/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/app/src/main/java/com/example/listvagridlayout/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/app/src/main/java/com/example/listvagridlayout/ui/theme/Color.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/app/src/main/java/com/example/demoxulisukien/ui/theme/Color.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/app/src/main/java/com/example/listvagridlayout/ui/theme/Theme.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/app/src/main/java/com/example/demoxulisukien/ui/theme/Theme.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/app/src/main/java/com/example/listvagridlayout/ui/theme/Type.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/app/src/main/java/com/example/demoxulisukien/ui/theme/Type.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/app/src/main/res/xml/backup_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/app/src/test/java/com/example/listvagridlayout/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/app/src/test/java/com/example/demoxulisukien/ExampleUnitTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListvaGridLayout/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../MayTinh/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../MayTinh/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MayTinh/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MayTinh/.idea/kotlinc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoXuLiSuKien/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../MayTinh/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../Navigation - Copy/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../MayTinh/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/example/navigation/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Navigation - Copy/app/src/androidTest/java/com/example/navigation/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Navigation - Copy/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/navigation/LoginScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Navigation - Copy/app/src/main/java/com/example/navigation/LoginScreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/navigation/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Navigation - Copy/app/src/main/java/com/example/navigation/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/navigation/NavGraph.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Navigation - Copy/app/src/main/java/com/example/navigation/NavGraph.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/navigation/RegisterScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Navigation - Copy/app/src/main/java/com/example/navigation/RegisterScreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/navigation/Screen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Navigation - Copy/app/src/main/java/com/example/navigation/Screen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/navigation/ui/theme/Color.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Navigation - Copy/app/src/main/java/com/example/navigation/ui/theme/Color.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/navigation/ui/theme/Theme.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Navigation - Copy/app/src/main/java/com/example/navigation/ui/theme/Theme.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/navigation/ui/theme/Type.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Navigation - Copy/app/src/main/java/com/example/navigation/ui/theme/Type.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MayTinh/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MayTinh/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MayTinh/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MayTinh/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../MayTinh/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../MayTinh/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../MayTinh/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../MayTinh/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../MayTinh/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../MayTinh/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../MayTinh/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../MayTinh/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../MayTinh/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../MayTinh/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MayTinh/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Navigation - Copy/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Navigation - Copy/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/xml/backup_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MayTinh/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MayTinh/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/example/navigation/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Navigation - Copy/app/src/test/java/com/example/navigation/ExampleUnitTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../MayTinh/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../MayTinh/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../MayTinh/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Navigation - Copy/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../MayTinh/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../MayTinh/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../Navigation - Copy/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinhBMI - Copy/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TinhBMI - Copy/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\FPT\.android\avd\Nexus_4_API_30.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2WhFLEn6F2t778ddMgxOkmuvS9z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "D:/LapTrinhDiDong/MayTinh",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "AndroidSdkUpdater"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="Navigation.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="560ac016-f0c9-4d75-a904-1a353b388972" name="Changes" comment="" />
+      <created>1697176848088</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697176848088</updated>
+    </task>
+    <servers />
+  </component>
+</project>
